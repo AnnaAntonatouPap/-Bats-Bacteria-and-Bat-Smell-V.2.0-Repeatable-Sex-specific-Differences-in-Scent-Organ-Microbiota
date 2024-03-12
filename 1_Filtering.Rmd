@@ -149,15 +149,9 @@ sample_size = samples_total %>% group_by(sex) %>% summarize(num=n())
 
 # save 
 write.csv(samples_total,"Total_counts_per_sample_fullDataset.csv")
-```
-#plot
-```{r}
-library(ggplot2)
-library(dplyr)
-library(hrbrthemes)
-library(viridis)
 
 
+# Violin plot for counts 
 
 dp <- ggplot(samples_total, aes(x=sex, y=Total, fill=sex)) + 
   geom_violin(trim=T,alpha=0.7,adjust=2,show.legend = FALSE)+
@@ -190,7 +184,6 @@ dp2
 #ggsave("boxplot_reads_fullDataset.pdf",dp2,device = cairo_pdf,width=400,height = 350, units ="mm",dpi=1000)
 
 # add stats
-```{r}
 library(ggpubr)
 
 dp2+stat_compare_means()
