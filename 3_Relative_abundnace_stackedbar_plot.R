@@ -17,8 +17,7 @@ data.frame = psmelt(prune.dat)
 # colors
 stackColors1 <- c("#673770", "#5F7FC7", "orange","#DA5724", "#5e738f", "#CD9BCD",
                  "#AD6F3B", "#CBD588","#D14285", "#508578" , "#C84248", "#8569D5", 
-                 "#652926","#D1A33D", "bisque3", "#599861","red","blue","pink","cyan2"
-)
+                 "#652926","#D1A33D", "bisque3", "#599861","red","blue","pink","cyan2")
 
 
 # Plot
@@ -85,8 +84,7 @@ data.frame_females = psmelt(prune.dat_females)
 # colors
 stackColors1 <- c("#673770", "#5F7FC7", "orange","#DA5724", "#5e738f", "#CD9BCD",
                  "#AD6F3B", "#CBD588","#D14285", "#508578" , "#C84248", "#8569D5", 
-                 "#652926","#D1A33D", "bisque3", "#599861","red","blue","pink","cyan2"
-)
+                 "#652926","#D1A33D", "bisque3", "#599861","red","blue","pink","cyan2")
 
 
 plot<-ggplot(data.frame_females, aes(x=Sample, y=Abundance, fill=Family_top20)) + 
