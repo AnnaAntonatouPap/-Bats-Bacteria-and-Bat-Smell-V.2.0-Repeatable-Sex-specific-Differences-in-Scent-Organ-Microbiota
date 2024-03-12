@@ -1,13 +1,10 @@
 # Calculate alpha diveristies for unraraefied data
 
-# unrarefied
-```{r}
 # A. Shannon, Chao and Observed 
 alpha.full_unrare <- estimate_richness(data.full, 
                                         measures = c("Shannon","Chao1","Observed"))
 
 # B. Faith's PD
-
 # Prepare data 
 pd_otu <- as.data.frame(data.full.filt@otu_table) #otu table as data frame
 pd_tree <- data.full.filt@phy_tree # tree
