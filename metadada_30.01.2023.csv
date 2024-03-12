@@ -1,0 +1,146 @@
+dna_code,Host_species,Total _read_count,group,ind_id,full_dataset,reduced_ dataset,Host_species,sex,fa,bm,injection,date,area,Location,Lat,Long,Colony,ring_no,sample_no,comments
+BS003,Saccopteryx bilineata,615,G8,220,yes,no,Saccopteryx bilineata,M,45.6,7.9,LPS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,hellblau-gelb,10,NA
+BS007,Saccopteryx bilineata,467,G12,218,yes,no,Saccopteryx bilineata,M,46.7,8.7,LPS,29.11.2018,Palo Verde,Brunnen,-85.34997069,10.34729136,C6,gelb-grün,12,NA
+BS013,Saccopteryx bilineata,224,G18,203,yes,no,Saccopteryx bilineata,M,46.1,8.6,NA,28.11.2018,Palo Verde,Geierbaum," -85,338241",10.360584,C6,rosa-blau,2,NA
+BS020,Saccopteryx bilineata,427,G25,234,yes,no,Saccopteryx bilineata,M,NA,8,NA,30.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rosa-hellgrün,9a,NA
+BS024,Saccopteryx bilineata,144,G29,235,yes,no,Saccopteryx bilineata,M,NA,7.9,NA,30.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rot-rosa,7a,NA
+BS037,Saccopteryx bilineata,40,G42,224,yes,no,Saccopteryx bilineata,M,45,8.2,PBS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rosa-hellgrün,9,NA
+BS040,Saccopteryx bilineata,359,G45,144,yes,no,Saccopteryx bilineata,M,43.8,7.4,NA,17.12.2018,La Gamba,Lab-Clearing,-83.2016691,8.700907853,C3,NA,NA,NA
+BS046,Saccopteryx bilineata,101,G51,146,yes,no,Saccopteryx bilineata,F,43,8.5,NA,17.12.2018,La Gamba,Lab-Clearing,-83.2016691,8.700907853,C3,NA,NA,NA
+BS065,Saccopteryx bilineata,257,G70,226,yes,no,Saccopteryx bilineata,M,45.3,8.2,PBS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rot-weiss,11,NA
+BS069,Saccopteryx bilineata,962,G74,221,yes,no,Saccopteryx bilineata,M,46.2,8.8,LPS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,hellblau-orange,4,NA
+BS083,Saccopteryx bilineata,0,G88,239,yes,no,Saccopteryx bilineata,M,47,8.5,NA,02.12.2018,La Gamba,Unser Haus,-83.2016691,8.700907853,C3,R weiss-orange,16,NA
+BS084,Saccopteryx bilineata,0,G89,278,yes,no,Saccopteryx bilineata,M,8.3,NA,keine Proben,?,La Gamba,Toilette,-83.2016691,8.700907853,C3,R pink,21,NA
+BS102,Saccopteryx bilineata,246,G107,233,yes,no,Saccopteryx bilineata,M,44.1,7.9,NA,30.11.2018,Palo Verde,Brunnen,-85.34997069,10.34729136,C6,pink-lila,14,NA
+BS106,Saccopteryx bilineata,862,G111,223,yes,no,Saccopteryx bilineata,M,45,8.8,PBS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rosa-grau,5,Repeat of B140
+BS033,Saccopteryx bilineata,32421,G38,275,yes,yes,Saccopteryx bilineata,M,45.6,8.3,LPS,13.12.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rot-weiss,11,ad
+BS034,Saccopteryx bilineata,22980,G39,257,yes,yes,Saccopteryx bilineata,M,43.8,8,NA,10.12.2018,La Gamba,Cueva Kevin,-83.10522147,8.714371017,C4,NA,27,ad
+BS044,Saccopteryx bilineata,107417,G49,274,yes,yes,Saccopteryx bilineata,M,45,8.3,LPS,13.12.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rosa-hellgrün,9,ad
+BS051,Saccopteryx bilineata,23940,G56,256,yes,yes,Saccopteryx bilineata,M,44.8,8.8,NA,10.12.2018,La Gamba,Cueva Kevin,-83.10522147,8.714371017,C4,NA,26,ad
+BS066,Saccopteryx bilineata,78824,G71,260,yes,yes,Saccopteryx bilineata,M,45.9,8.6,NA,10.12.2018,La Gamba,Cueva Kevin,-83.10522147,8.714371017,C4,NA,30,ad
+BS095,Saccopteryx bilineata,210180,G100,259,yes,yes,Saccopteryx bilineata,M,46.7,8.5,NA,10.12.2018,La Gamba,Cueva Kevin,-83.10522147,8.714371017,C4,NA,29,ad
+BS134,Saccopteryx bilineata,58228,G139,258,yes,yes,Saccopteryx bilineata,M,44.9,8.4,NA,10.12.2018,La Gamba,Cueva Kevin,-83.10522147,8.714371017,C4,NA,28,ad
+BS076,Saccopteryx bilineata,43034,G81,202,yes,yes,Saccopteryx bilineata,M,45.4,8.1,NA,14.12.2018,Palo Verde,Adminbaum,-85.34949681,10.34886204,C6,hellgrün-dunkelgrün,1,"Before odour sampling,Repeat of BS04, "
+BS125,Saccopteryx bilineata,101023,G130,206,yes,yes,Saccopteryx bilineata,F,48.5,8.9,NA,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,gelb 188,NA,Date is wrong?
+BS100,Saccopteryx bilineata,286261,G105,273,yes,yes,Saccopteryx bilineata,M,46.2,8,LPS,13.12.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,hellblau-gelb,10,juv
+BS058,Saccopteryx bilineata,158390,G63,246,yes,yes,Saccopteryx bilineata,M,47.6,8.1,NA,07.12.2018,La Gamba,UCR,-83.17215903,8.644863924,C2,NA,22,kein Blut
+BS073,Saccopteryx bilineata,17485,G78,249,yes,yes,Saccopteryx bilineata,M,45,7.9,NA,07.12.2018,La Gamba,UCR,-83.17215903,8.644863924,C2,NA,24,kein Blut
+BS138,Saccopteryx bilineata,142511,G143,247,yes,yes,Saccopteryx bilineata,M,45.9,8.7,NA,07.12.2018,La Gamba,UCR,-83.17215903,8.644863924,C2,NA,23,kein Blut
+BS011,Saccopteryx bilineata,6545,G16,232,yes,yes,Saccopteryx bilineata,M,NA,7.6,NA,30.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,gelb-schwarz,8a,NA
+BS015,Saccopteryx bilineata,55196,G20,250,yes,yes,Saccopteryx bilineata,F,48.6,9,NA,07.12.2018,La Gamba,UCR,-83.17215903,8.644863924,C2,NA,108,NA
+BS016,Saccopteryx bilineata,10204,G21,219,yes,yes,Saccopteryx bilineata,M,45,8.3,LPS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,gelb-schwarz,8,NA
+BS022,Saccopteryx bilineata,122599,G27,204,yes,yes,Saccopteryx bilineata,F,47.3,8.5,NA,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,gelb 186,NA,NA
+BS030,Saccopteryx bilineata,47478,G35,254,yes,yes,Saccopteryx bilineata,M,44.6,8,NA,09.12.2018,La Gamba,Toilette,-83.2016691,8.700907853,C3,orange-braun,25,NA
+BS031,Saccopteryx bilineata,152476,G36,217,yes,yes,Saccopteryx bilineata,M,45.1,8.5,LPS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,gelb-grau,6,NA
+BS035,Saccopteryx bilineata,10001,G40,201,yes,yes,Saccopteryx bilineata,M,46.2,8.4,NA,28.11.2018,Palo Verde,Geierbaum," -85,338241",10.360584,C6,grün-orange,3,NA
+BS036,Saccopteryx bilineata,52094,G41,242,yes,yes,Saccopteryx bilineata,M,45.8,7.6,NA,04.12.2018,La Gamba,Playa Cacao,-83.18026702,8.625338855,C1,NA,17,NA
+BS043,Saccopteryx bilineata,41859,G48,208,yes,yes,Saccopteryx bilineata,F,49.7,8.5,NA,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,gelb 190,NA,NA
+BS050,Saccopteryx bilineata,84231,G55,214,yes,yes,Saccopteryx bilineata,F,49.9,8.8,NA,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,gelb 210,NA,NA
+BS071,Saccopteryx bilineata,140048,G76,265,yes,yes,Saccopteryx bilineata,F,8.5,NA,Abstrich,10.12.2018,La Gamba,Cueva Kevin,-83.10522147,8.714371017,C4,NA,114,NA
+BS074,Saccopteryx bilineata,24295,G79,251,yes,yes,Saccopteryx bilineata,F,48,8.6,NA,07.12.2018,La Gamba,UCR,-83.17215903,8.644863924,C2,NA,109,NA
+BS075,Saccopteryx bilineata,19949,G80,245,yes,yes,Saccopteryx bilineata,M,NA,NA,NA,04.12.2018,La Gamba,Playa Cacao,-83.18026702,8.625338855,C1,NA,19,NA
+BS077,Saccopteryx bilineata,118202,G82,253,yes,yes,Saccopteryx bilineata,M,47.8,7.8,NA,09.12.2018,La Gamba,Toilette,-83.2016691,8.700907853,C3,grau 1805,111,NA
+BS080,Saccopteryx bilineata,1822,G85,248,yes,yes,Saccopteryx bilineata,F,47.4,8.3,NA,07.12.2018,La Gamba,UCR,-83.17215903,8.644863924,C2,NA,107,NA
+BS081,Saccopteryx bilineata,110496,G86,236,yes,yes,Saccopteryx bilineata,M,NA,NA,NA,30.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rot-weiss,11a,NA
+BS091,Saccopteryx bilineata,148769,G96,240,yes,yes,Saccopteryx bilineata,F,49.3,7.5,NA,04.12.2018,La Gamba,Unser Haus,-83.2016691,8.700907853,C3,grau 1802,102,NA
+BS092,Saccopteryx bilineata,147009,G97,244,yes,yes,Saccopteryx bilineata,F,48.6,8.1,NA,04.12.2018,La Gamba,Playa Cacao,-83.18026702,8.625338855,C1,NA,104,NA
+BS098,Saccopteryx bilineata,466900,G103,243,yes,yes,Saccopteryx bilineata,M,47.1,7.8,NA,04.12.2018,La Gamba,Playa Cacao,-83.18026702,8.625338855,C1,NA,18,NA
+BS104,Saccopteryx bilineata,390010,G109,241,yes,yes,Saccopteryx bilineata,F,47.6,7.8,NA,04.12.2018,La Gamba,Playa Cacao,-83.18026702,8.625338855,C1,NA,103,NA
+BS107,Saccopteryx bilineata,242318,G112,252,yes,yes,Saccopteryx bilineata,F,50.4,8.7,NA,09.12.2018,La Gamba,Toilette,-83.2016691,8.700907853,C3,grau 1804,110,NA
+BS111,Saccopteryx bilineata,110796,G116,266,yes,yes,Saccopteryx bilineata,F,8,NA,Abstrich,10.12.2018,La Gamba,Cueva Kevin,-83.10522147,8.714371017,C4,NA,115,NA
+BS113,Saccopteryx bilineata,8390,G118,237,yes,yes,Saccopteryx bilineata,F,49,8.7,NA,01.12.2018,La Gamba,Unser Haus,-83.2016691,8.700907853,C3,R grau 1806,101,NA
+BS129,Saccopteryx bilineata,37306,G134,279,yes,yes,Saccopteryx bilineata,M,7.8,NA,juv,?,La Gamba,Toilette,-83.2016691,8.700907853,C3,R weiss-orange,20,NA
+BS135,Saccopteryx bilineata,2358,G140,238,yes,yes,Saccopteryx bilineata,M,42,7,PBS,01.12.2018,La Gamba,Unser Haus,-83.2016691,8.700907853,C3,R hellblau-orange,15,NA
+BS094,Saccopteryx bilineata,78776,G99,225,yes,yes,Saccopteryx bilineata,M,45.4,7.9,PBS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rot-rosa,7,Repeat of B014
+BS140,Saccopteryx bilineata,78768,G145,223,yes,yes,Saccopteryx bilineata,M,45,8.8,PBS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rosa-grau,5,Repeat of B106
+BS029,Saccopteryx bilineata,32531,G34,147,yes,yes,Saccopteryx bilineata,M,44,8.4,NA,17.12.2018,La Gamba,Lab-Clearing,-83.2016691,8.700907853,C3,NA,NA,Repeat of BS026 (Before odour sampling)
+BS047,Saccopteryx bilineata,61093,G52,222,yes,yes,Saccopteryx bilineata,M,45.5,8.6,LPS,29.11.2018,Palo Verde,Brunnen,-85.34997069,10.34729136,C6,hellblau-weiss,13,Weisser Fleck auf rechter Schulter
+BS056,Anoura cultrata,87467,G61,58,no,no,Anoura cultrata,F,NA,NA,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS099,Anoura cultrata,221232,G104,55,no,no,Anoura cultrata,F,42.3,19.5,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS109,Anoura cultrata,232915,G114,42,no,no,Anoura cultrata,M,42.3,12.5,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS132,Anoura cultrata,186986,G137,54,no,no,Anoura cultrata,F,41.6,17,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS005,Artibeus jamaicensis,100196,G10,128,no,no,Artibeus jamaicensis,M,58.3,41.5,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS025,Artibeus jamaicensis,2331,G30,132,no,no,Artibeus jamaicensis,M,57.4,45,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS038,Artibeus jamaicensis,24499,G43,112,no,no,Artibeus jamaicensis,M,59.4,41,NA,14.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS063,Artibeus jamaicensis,98747,G68,18,no,no,Artibeus jamaicensis,F,64.2,55.5,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,NA
+BS057,Artibeus jamaicensis,78636,G62,NA,no,no,Artibeus jamaicensis,M,NA,NA,NA,08.12.2018,NA,NA,,,NA,NA,NA,was not in the list
+BS116,Artibeus lituratus,223502,G121,130,no,no,Artibeus lituratus,M,65.5,57.5,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS133,Artibeus lituratus,66850,G138,129,no,no,Artibeus lituratus,M,69.4,64.5,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS055,Artibeus phaeotis,88205,G60,77,no,no,Artibeus phaeotis,F,39.5,12.2,NA,08.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS068,Artibeus phaeotis,297026,G73,15,no,no,Artibeus phaeotis,F,40.3,NA,NA,03.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS082,Artibeus phaeotis,48790,G87,31,no,no,Artibeus phaeotis,F,41.8,12.4,NA,06.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS086,Artibeus phaeotis,17742,G91,35,no,no,Artibeus phaeotis,F,38,12,NA,07.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS114,Artibeus phaeotis,359908,G119,28,no,no,Artibeus phaeotis,M,38.6,12.2,NA,06.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS119,Artibeus phaeotis,66496,G124,14,no,no,Artibeus phaeotis,F,38.9,12.4,NA,03.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS105,Artibeus watsoni,132520,G110,127,no,no,Artibeus watsoni,F,37.7,8.5,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS006,Carollia castanea,42632,G11,25,no,no,Carollia castanea,F,36.3,12.4,NA,06.12.2018,La Gamba,Laguna,-83.203624,8.701167,NA,NA,NA,NA
+BS049,Carollia castanea,25051,G54,19,no,no,Carollia castanea,F,36.5,11.9,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,NA
+BS052,Carollia castanea,230507,G57,40,no,no,Carollia castanea,M,36,13.5,NA,07.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS089,Carollia castanea,107866,G94,39,no,no,Carollia castanea,M,36.6,13.8,NA,07.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS062,Carollia perspicillata,51135,G67,48,no,no,Carollia perspicillata,M,42.4,20.5,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,Date is wrong?
+BS018,Carollia perspicillata,171561,G23,116,no,no,Carollia perspicillata,F,42.4,23.5,NA,15.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS053,Carollia perspicillata,153221,G58,114,no,no,Carollia perspicillata,F,43.1,NA,NA,14.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS060,Carollia perspicillata,30254,G65,24,no,no,Carollia perspicillata,F,40.8,16.4,NA,05.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS090,Carollia perspicillata,12078,G95,45,no,no,Carollia perspicillata,F,43.4,19,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS093,Carollia perspicillata,37670,G98,46,no,no,Carollia perspicillata,M,44.7,21.5,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS103,Carollia perspicillata,124997,G108,113,no,no,Carollia perspicillata,M,43.2,20.5,NA,14.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS108,Carollia perspicillata,145221,G113,47,no,no,Carollia perspicillata,F,43.5,19,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS121,Carollia perspicillata,48385,G126,23,no,no,Carollia perspicillata,F,37.9,19.1,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,NA
+BS122,Carollia perspicillata,62016,G127,44,no,no,Carollia perspicillata,F,45.1,22,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS123,Carollia perspicillata,47651,G128,117,no,no,Carollia perspicillata,M,41.7,16,NA,15.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS045,Carollia sowelli,11879,G50,12,no,no,Carollia sowelli,M,41.6,18,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS048,Carollia sowelli,45586,G53,26,no,no,Carollia sowelli,F,40.6,15.8,NA,06.12.2018,La Gamba,Laguna,-83.203624,8.701167,NA,NA,NA,NA
+BS054,Carollia sowelli,163457,G59,30,no,no,Carollia sowelli,F,39.7,16.7,NA,06.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS097,Carollia sowelli,391275,G102,33,no,no,Carollia sowelli,F,40.8,15.2,NA,06.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS128,Carollia sowelli,220567,G133,29,no,no,Carollia sowelli,M,41.6,17.7,NA,06.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS131,Carollia sowelli,25251,G136,32,no,no,Carollia sowelli,F,41.4,15.9,NA,06.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS017,Glossophaga commissarisi,190872,G22,134,no,no,Glossophaga commissarisi,F,37.4,11.5,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS039,Glossophaga soricina,12931,G44,136 or 137 ,no,no,Glossophaga soricina,unknown,NA,NA,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,Ind 136 or 137
+BS041,Glossophaga soricina,38900,G46,115,no,no,Glossophaga soricina,M,35,12,NA,15.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS042,Glossophaga soricina,63991,G47,121,no,no,Glossophaga soricina,M,36,12,NA,15.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS124,Glossophaga soricina,15298,G129,125,no,no,Glossophaga soricina,M,35.8,11.5,NA,15.12.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,NA,NA,NA,NA
+BS137,Glossophaga sp.,154187,G142,13,no,no,Glossophaga sp.,M,33.6,8.9,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS032,Lonchophylla robusta,115157,G37,66,no,no,Lonchophylla robusta,M,45.8,16.5,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS118,Lonchophylla robusta,14457,G123,67,no,no,Lonchophylla robusta,M,43.4,14.5,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS120,Lonchophylla robusta,96408,G125,68,no,no,Lonchophylla robusta,F,42,16.5,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS023,Mimon crenulatum,45056,G28,161,no,no,Mimon crenulatum,NA,51.5,18.8,NA,18.12.2018,La Selva,STR 1000,,,NA,NA,NA,NA
+BS002,Molossus bondae,194986,G7,174,no,no,Molossus bondae,F,39,18,NA,19.12.2018,La Selva,Casas Familia,-84.00786,10.43836,NA,NA,NA,NA
+BS008,Molossus bondae,117549,G13,145,no,no,Molossus bondae,NA,40,16.8,NA,17.12.2018,La Selva,Lab-Clearing,-83.2016691,8.700907853,NA,NA,NA,NA
+BS009,Molossus bondae,30233,G14,182,no,no,Molossus bondae,F,38,14.3,NA,19.12.2018,La Selva,Casas Familia,-84.00786,10.43836,NA,NA,NA,NA
+BS001,Molossus sinaloae,56970,G6,168,no,no,Molossus sinaloae,NA,48,23.1,NA,19.12.2018,La Selva,Casas Familia,-84.00786,10.43836,NA,NA,NA,NA
+BS010,Molossus sinaloae,5766,G15,179,no,no,Molossus sinaloae,M,49.5,21.5,NA,19.12.2018,La Selva,Casas Familia,-84.00786,10.43836,NA,NA,NA,NA
+BS021,Molossus sinaloae,13958,G26,180,no,no,Molossus sinaloae,M,50,20.6,NA,19.12.2018,La Selva,Casas Familia,-84.00786,10.43836,NA,NA,NA,NA
+BS067,Myotis albescens,54226,G72,7,no,no,Myotis albescens,M,33.3,4.7,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS070,Myotis albescens,85804,G75,5,no,no,Myotis albescens,M,35.3,4.5,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS079,Myotis albescens,26389,G84,8,no,no,Myotis albescens,M,34.7,4.6,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS126,Myotis albescens,44242,G131,6,no,no,Myotis albescens,M,33.5,4.4,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS136,Myotis albescens,119368,G141,169,no,no,Myotis albescens,NA,39,9,NA,19.12.2018,La Selva,Casas Familia,-84.00786,10.43836,NA,NA,NA,NA
+BS027,NA,25204,G32,NC,no,no,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,Amise control
+BNCE1,NA,145,G1,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BNCE2,NA,173,G2,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA
+BNCE3,NA,97,G3,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+BNCP1,NA,100,G4,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA
+BNCP2,NA,7175,G5,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA
+BS117,NA,90266,G122,NA,no,no,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA
+BS028,Noctilio leporinus,49458,G33,131,no,no,Noctilio leporinus,M,85.4,73.5,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS087,Phyllostomus discolor,29999,G92,11,no,no,Phyllostomus discolor,M,66.8,48.5,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS061,Platyrrhinus helleri,4132,G66,17,no,no,Platyrrhinus helleri,M,40,15.8,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,NA
+BS085,Platyrrhinus helleri,10209,G90,10,no,no,Platyrrhinus helleri,M,44.8,17.9,NA,01.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS115,Platyrrhinus helleri,215024,G120,27,no,no,Platyrrhinus helleri,M,43.8,18.2,NA,06.12.2018,La Gamba,Station,-83.2016691,8.700907853,NA,NA,NA,NA
+BS112,Platyrrhinus helleri,226457,G117,20,no,no,Platyrrhinus helleri,unknown,43.5,20.8,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,Sex is not clear
+BS064,Pteronotus parnellii,39733,G69,43,no,no,Pteronotus parnellii,M,64,25,NA,08.12.2018,La Gamba,Caverna Piedras Blancas,-83.184559,8.726740271,NA,NA,NA,NA
+BS096,Pteronotus parnellii,164389,G101,123,no,no,Pteronotus parnellii,M,59,28,NA,15.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS130,Pteronotus parnellii,107087,G135,122,no,no,Pteronotus parnellii,M,59.7,24.5,NA,15.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS088,Rhogeessa thumida,76299,G93,124,no,no,Rhogeessa thumida,M,27.5,3.5,NA,15.12.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,NA,NA,NA,NA
+BS139,Rhogeessa thumida,25411,G144,143,no,no,Rhogeessa thumida,F,26.6,4,NA,16.12.2018,Palo Verde,Ojo del agua,-85.332506,"10,351864°",NA,NA,NA,NA
+BS059,Rhynchonycteris naso,152946,G64,16,no,no,Rhynchonycteris naso,F,37,3.7,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,NA
+BS078,Saccopteryx bilineata,183341,G83,CG2,no,no,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,"After odour sampling, repeat of BS012, not on the list"
+BS127,Saccopteryx bilineata,78009,G132,CG1,no,no,NA,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,"After Odour sampling, repeat of BS019, not on the list"
+BS004,Saccopteryx bilineata,518,G9,202,no,no,Saccopteryx bilineata,M,45.4,8.1,NA,28.11.2018,Palo Verde,Adminbaum,-85.34949681,10.34886204,C6,hellgrün-dunkelgrün,1,"After odour sampling, repeat pf BS076"
+BS012,Saccopteryx bilineata,50256,G17,CG2,no,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Afterodour sampling, repeat of BS078, not on the list"
+BS019,Saccopteryx bilineata,197022,G24,CG1,no,no,Saccopteryx bilineata,NA,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,"Before odour sampling, Repeat of BS127, not on the list"
+BS014,Saccopteryx bilineata,312,G19,225,no,no,Saccopteryx bilineata,M,45.4,7.9,PBS,29.11.2018,Palo Verde,Casa de Coco,-85.25977811,10.33253274,C5,rot-rosa,7,Repeat of B094
+BS026,Saccopteryx bilineata,18178,G31,147,no,no,Saccopteryx bilineata,M,44,8.4,NA,17.12.2018,La Gamba,Lab-Clearing,-83.2016691,8.700907853,NA,NA,NA,Repeat of BS029 (After odour sampling)
+BS072,Sturnira lilium,111085,G77,22,no,no,Sturnira lilium,M,38.3,16.5,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,NA
+BS101,Vampyressa nymphaea,28426,G106,21,no,no,Vampyressa nymphaea,M,36,12.3,NA,05.12.2018,La Gamba,Brücke,-83.192923, 8.699693,NA,NA,NA,NA
+BS110,Vampyressa nymphaea,79,G115,NA,no,no,Vampyressa nymphaea,F,NA,NA,NA,05.12.2018,NA,NA,,,NA,NA,NA,was not in the list
