@@ -1,8 +1,7 @@
-# Importing files, filtering samples, rarafy data, CSS data Bat project
+# Importing files, filtering samples
+
 # Load libraries 
-library(xml2)
-library(XML,lib.loc = "C:/Program Files/R/R-4.0.2/library")
-library(rlang, lib.loc = "C:/Program Files/R/R-4.0.2/library")
+
 library(ggplot2)
 library(vegan)
 library(dplyr)
@@ -18,23 +17,23 @@ library(microbiome)
 library(DESeq2)
 library(dunn.test)
 library(rstatix)
-library(ggpubr, lib.loc="~/R/win-library/4.0")
+library(ggpubr)
 library(metagenomeSeq)
 library(ape)
 library(rfm)
 library(picante)
-library("dbplyr", lib.loc="~/R/win-library/4.0")
-library("geosphere", lib.loc="~/R/win-library/4.0")
+library("dbplyr")
+library("geosphere")
 library(ggpubr)
 library(moments)
 library(lme4)
 library(car)
-library("sjPlot", lib.loc="~/R/win-library/4.0")
-library("lme4", lib.loc="~/R/win-library/4.0")
+library("sjPlot")
+library("lme4")
 library(broom)
-library("multcomp", lib.loc="~/R/win-library/4.0")
+library("multcomp")
 library(ggeffects)
-library("MuMIn", lib.loc="~/R/win-library/4.0")
+library("MuMIn")
 library(ecodist)
 library(ggplot2)
 library(dplyr)
@@ -73,7 +72,7 @@ data.full <- data.full %>%
 
 
 ######################################################################################################################################################   
-# Rarefy full dataset
+# Rarefy full dataset// NOT USED FOR THE RETS OF THE ANALYSIS
 
 set.seed(1)
 data.full.rare <- rarefy_even_depth(data.full,rngseed=1, sample.size=min(sample_sums(data.full)), replace=F)
